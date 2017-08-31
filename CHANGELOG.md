@@ -97,6 +97,7 @@
 - Add support for Smooth Mouse (via @mateusrevoredo)
 - Add support for MacDown (via @mateusrevoredo)
 - Add support for Spotify Notifications (via @mateusrevoredo)
+- Add support for GIMP (via @mateusrevoredo)
 - Fixed Gear Player Support (via @TCattd)
 - Fixed Mailplane Support (via @TCattd)
 - Add support for Maid (via @zanderzhng)
