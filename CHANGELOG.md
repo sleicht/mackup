@@ -116,6 +116,7 @@
 - Add support for doublecmd (via @doubleloop)
 - Add support for BBEdit (via @ryanjbonnell)
 - Add support for TextExpander (via @cjs)
+- Add support for custom keyboard layouts
 
 ## Mackup 0.8.12
 
